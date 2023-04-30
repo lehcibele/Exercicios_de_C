@@ -49,6 +49,6 @@ nhait, respectivamente.)
 números inteiros e imprima a sua soma. Exemplo: Dados os numeros 3, 4 e 10, o programa deve
 imprimir a string: "A soma e 17.".
 
-19. * Escrever um algoritmo e um programa em C que use apenas duas variáveis inteiras e que leia quatro
+19. Escrever um algoritmo e um programa em C que use apenas duas variáveis inteiras e que leia quatro
 números inteiros positivos menores do que 1000 e imprima os 4 numeros e a sua. Exemplo: Dados os
 numeros 100, 3, 4 e 10, o programa deve imprimir a string: "A soma 100, 3, 4 e 10 é 117.".
